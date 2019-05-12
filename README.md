@@ -10,6 +10,6 @@ Matlab Script For Research
 
 ### annotation region
 
-*Needed to install ([davinci_draw](http://davinci-draw.com/)) pacakages.
+*Needed to install ([davinci_draw](http://davinci-draw.com/)) pacakages.*
 
 ![region](plots/region/get-region.png "region1")
